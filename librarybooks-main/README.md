@@ -1,6 +1,5 @@
 # librarybooks
 
-Git project link - https://github.com/mukunddp/hospitalmgmt
 
 The framework used - Django 
 
